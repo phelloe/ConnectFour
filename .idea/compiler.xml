@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Connect_Four.Connect_Four-task-build-classes-kotlin.main" target="11" />
+      <module name="Connect_Four.Connect_Four-task-build-reports-tests.main" target="11" />
+      <module name="Connect_Four.Connect_Four-task-build-test-results.main" target="11" />
+      <module name="Connect_Four.Connect_Four-task-build-tmp.main" target="11" />
+      <module name="Connect_Four.Connect_Four-task.main" target="11" />
+      <module name="Connect_Four.Topics-Errors_in_programs-Theory.main" target="11" />
+      <module name="Connect_Four.Topics-Errors_in_programs-What's_wrong.main" target="11" />
+      <module name="Connect_Four.Topics-List-Sum_of_numbers.main" target="11" />
+      <module name="Connect_Four.Topics-List-Theory.main" target="11" />
+      <module name="Connect_Four.Topics-Mutable_List-Remove_us.main" target="11" />
+      <module name="Connect_Four.Topics-Mutable_List-Theory.main" target="11" />
+      <module name="Connect_Four.Topics-Regexps-Different_colo_u_rs.main" target="11" />
+      <module name="Connect_Four.Topics-Regexps-Theory.main" target="11" />
+      <module name="Connect_Four.Topics-The_classification_of_basic_types-Size,_min_and_max.main" target="11" />
+      <module name="Connect_Four.Topics-The_classification_of_basic_types-Theory.main" target="11" />
+      <module name="Connect_Four.Topics-What_is_an_exception-Cause_an_exception.main" target="11" />
+      <module name="Connect_Four.Topics-What_is_an_exception-Theory.main" target="11" />
+      <module name="Connect_Four.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
